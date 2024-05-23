@@ -1,0 +1,5 @@
+pandas==2.2.2
+pyspark==3.5.1
+ipython==8.18.1
+
+# NOTE: User must have Java installed on the machine in order for pyspark to run successfully
