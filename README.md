@@ -1,6 +1,6 @@
-# water-risk-solution-accelerator
+# Unlocking True Water Risk Assessment Across Insurance, Finance, Public Safety, and Beyond 
 
-## TODO: Update Intro with Link to Blog
+## Water Risk Solution Accelerator
 
 ## Solutions Acelerator Notebooks
 The goal of this repository is to serve as a solution accelerator for potential users of Divirod's data to become 
