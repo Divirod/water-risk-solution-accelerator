@@ -1,6 +1,7 @@
 # Unlocking True Water Risk Assessment Across Insurance, Finance, Public Safety, and Beyond 
 
 ## Water Risk Solution Accelerator
+This repo contains example notebooks to show case Divirod's Solution Accelerator in partnership with Databricks. This solutions accelerator illustrates how users can harness Divirod's water data, available in the Databricks Marketplace, to drive water related insights around the globe. For more information on the insights that can be driven by this dataset, please read the solution accelerator blog: [Unlocking True Water Risk Assessment Across Insurance, Finance, Public Safety, and Beyond](https://www.databricks.com/blog/unlocking-true-water-risk-assessment-worldwide).
 
 ## Solutions Acelerator Notebooks
 The goal of this repository is to serve as a solution accelerator for potential users of Divirod's data to become 
